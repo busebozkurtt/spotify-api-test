@@ -1,0 +1,3 @@
+com/spotify/data/TestUtilities.class
+com/spotify/oauth2/RequestSpec.class
+com/spotify/oauth2/ResponseSpec.class
