@@ -1,4 +1,4 @@
-# spotify-api-test
+# Spotify Api Test
 In the project, the api test of the spotify application was made. Before starting the project, a new app should be created by following the steps on https://developer.spotify.com/documentation/general/guides/authorization/app-settings/.          
 
 After the app is created, authorization should be done by following the names on the https://developer.spotify.com/documentation/general/guides/authorization/ page. 
